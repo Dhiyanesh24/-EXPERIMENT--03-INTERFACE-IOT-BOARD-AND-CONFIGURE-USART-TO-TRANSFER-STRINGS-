@@ -1,9 +1,4 @@
 
-###  DATE: 27/2/24
-###  NAME: Dhiyaneshwar P
-###  ROLL NO : 212222110009
-###  DEPARTMENT: CSE(IoT)
-
 # EXPERIMENT--03-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 ## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool, Serial port utility tool 
@@ -39,7 +34,10 @@ configure in the usart 2 as asynchronous mode and set the baud rate as 115200 as
 7. Opend serial port utility and check the outpu t
 
 
-
+```
+Name : Dhiyaneshwar P
+Reg.no : 212222110009
+```
 ## STM 32 CUBE PROGRAM :
 ```
 #include "main.h"
